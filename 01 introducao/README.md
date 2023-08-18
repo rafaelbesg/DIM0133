@@ -4,12 +4,19 @@ Atividades avaliativas (Provas, na nomenclatura do LoP) serão disponibilizadas 
 
 Como na primeira semana você ainda está conhecendo o ambiente, a atividade será apenas em caráter de teste e experimentação. A partir da semana seguinte, as provas no LoP passarão a contar como nota da avaliação. Por isso, procure se familiarizar logo com o sistema. Para isso, use o tutorial do aluno para entender como usar o básico do sistema: [https://juliocpmelo.github.io/lop_tutorial_2020/](https://juliocpmelo.github.io/lop_tutorial_2020/)
 
-## Configuração inicial
+## O que deve fazer para essa primeira semana
 
-1. Entre no servidor do Discord da Turma ITP através do link disponibilizado pelo professor
-2. Altere seu apelido no Discord para um nome que possamos te reconhecer. Por exemplo, ao invés de “tatchindobarato”, use seu nome verdadeiro.
-3. Faça seu cadastro no Sistema LoP (o LoP é um sistema de correção automática de questões de programação desenvolvido por pesquisadores da UFRN): [https://lop.natalnet.br/](https://lop.natalnet.br/)
-4. Entre no LoP e solicite a participação em turma a partir de um código que o professor de sua turma fornecerá.
+1. Servidor do Discord:
+	- Entre no servidor do Discord da Turma ITP através do link disponibilizado pelo professor no SIGAA;
+	- Uma vez no servidor, digite !role DIM0133-T01 ou !role DIM0133-T02 (T01 é o do horário T56 e T02 é o do horário N12);
+	- Altere seu apelido no Discord para um nome que possamos te reconhecer. Por exemplo, ao invés de “tatchindobarato”, use seu nome verdadeiro.
+2. Sistema LoP:
+	- Faça seu cadastro no Sistema LoP (o LoP é um sistema de correção automática de questões de programação desenvolvido por pesquisadores da UFRN): [https://lop.natalnet.br/](https://lop.natalnet.br/);
+	- Uma vez no LoP, solicite a participação em turma a partir de um código que o professor de sua turma colocou no SIGAA. A entrada da turma precisa ser aprovada pelo professor, então se ainda não tiver acesso aguarde até que o professor efetue a aprovação.
+3. Sobre a disciplina: confira os slides em 01 introducao/introducao.pdf
+4. Prepare o seu ambiente de programação (sugestão: VS Code, instruções constam ao longo ainda deste README)
+5. Assista aos vídeos (links disponíveis nas seções seguintes)
+6. Resolva os exercícios da lista introdutória disponível no LoP (os desta semana não vale pontuação)
 
 ## Material da primeira semana
 
