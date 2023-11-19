@@ -9,4 +9,4 @@
         - Estude somente as seções 1 (estrutura da memória) e 2 (ponteiros)
         - [https://bolder-beret-049.notion.site/Aula-08-Gest-o-de-mem-ria-ac00918f14fa48838fd53d970c148215](https://bolder-beret-049.notion.site/Aula-08-Gest-o-de-mem-ria-ac00918f14fa48838fd53d970c148215)
 
-2. Para exercitar, resolva as questões da **lista disponível no SIGAA**
+2. Para exercitar, resolva as questões da **lista lista_ponteiros.pdf disponível no SIGAA** (somente as 3 primeiras questões)
